@@ -5,35 +5,35 @@ X Bank Management System is a console-based banking application developed in C. 
 
 The system uses file handling to store account information and transaction records, allowing data to persist even after the program is closed.
 
-Features
+<>Features
 Authentication System
 Account Login
 PIN Verification
 Personalized Welcome Message
 
- Account Management
+<> Account Management
 Create New Account
 Store Account Information Permanently
 Multiple User Support
 
- Banking Operations
+<> Banking Operations
 Check Balance
 Deposit Money
 Withdraw Money
 Transfer Money Between Accounts
 
- Transaction History
+ <> Transaction History
 Individual Transaction Logs
 Deposit Records
 Withdraw Records
 Transfer Records
 Persistent History Storage
 
-File Handling
+<>File Handling
 Account data stored in accounts.txt
 Transaction history stored in history.txt
 
- Technologies Used
+<> Technologies Used
 C Programming Language
 Structures
 Arrays
@@ -42,7 +42,7 @@ File Handling
 Loops
 Conditional Statements.
 
-Project Structure
+<> Project Structure
 
 X-Bank-System/
 │
@@ -50,7 +50,7 @@ X-Bank-System/
 ├── accounts.txt
 ├── history.txt
 └── README.md
-🏗 Preloaded Accounts
+<> Preloaded Accounts
 
 The system automatically creates the following accounts during the first execution:
 
@@ -59,7 +59,7 @@ Account Number	Name	PIN
 1002	Fatin	5678
 1003	Siam	4321
 
- Program Workflow
+<> Program Workflow
 Start Program
       │
       ▼
@@ -80,7 +80,7 @@ Dashboard
  ├── Transaction History
  └── Logout
  
- Concepts Demonstrated
+ <> Concepts Demonstrated
 
 This project demonstrates:
 
@@ -93,9 +93,9 @@ File Persistence
 Transaction Logging
 User-Based Data Handling
 
-🎯 Learning Objectives
+ <> Learning Objectives
 
-Through this project, I learned:
+/Through this project, I learned:
 
 Designing a complete software workflow
 Implementing user authentication
@@ -104,8 +104,7 @@ Using file handling for permanent storage
 Building a transaction logging system
 Simulating real-world banking operations
 
- Future Improvements
-
+<> Future Improvements
 Potential upgrades for future versions:
 
 Admin Panel
@@ -117,12 +116,13 @@ Date & Time Stamps for Transactions
 Database Integration (MySQL/SQLite)
 Graphical User Interface (GUI)
 Web-Based Banking Dashboard
- Author
+
+<> Author;
 
 Md Fatin Ishrak Rahin
 
 Computer Science & Engineering Student
 
- License
+<> License
 
 This project was created for educational and learning purposes. Feel free to use and modify it for practice and personal development.
